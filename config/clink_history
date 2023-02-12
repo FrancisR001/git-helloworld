@@ -1,0 +1,67 @@
+|CTAG_1675994456_2337137781_11368_0
+|s
+dir
+|d..
+cd\ingenieria de software II
+cd
+cd.
+cd C:\Users\Francis R\Desktop\ingenieria de software I
+|kdir practicascursoudemyingsoftII
+|s
+cd C:\Users\Francis R\Desktop\ingenieria de software II
+mkdir practicascursoudemyingsoftII
+git init
+|it status
+cd C:\Users\Francis R\Desktop\ingenieria de software II\index.html
+|d C:\Users\Francis R\Desktop\ingenieria de software II\practicascursoudemyingsoftII
+|it add index.html
+|it status
+git commit -m "se creo el archivo index"
+|it status
+cd..
+|it status
+cd C:\Users\Francis R\Desktop\ingenieria de software II\practicascursoudemyingsoftII
+|it status
+GIT STATUS
+|it status
+git add --all
+|it status
+git add index.html
+|it status
+git commit -m "se agrego un nuevo titulo al archico index.html"
+git commit -m "se agrego un nuevo titulo al archivo index.html"
+|it status
+git remoto agregar origen https://github.com/FrancisR001/git-helloworld.git
+|it remote add origin https://github.com/FrancisR001/git-helloworld.git
+|it branch -M main
+|it remote add origin https://github.com/FrancisR001/git-helloworld.git
+|it branch -M main
+|it push -u origin main
+|it remote add origin https://github.com/FrancisR001/git-helloworld.git
+git remote v
+git remote -v
+|it remote add origin https://github.com/FrancisR001/git-helloworld.git
+|it remote remove https://github.com/FrancisR001/git-helloworld.git
+git remote remove <https://github.com/FrancisR001/git-helloworld.git>
+git remote remove https://github.com/FrancisR001/git-helloworld.git
+git remote https://github.com/FrancisR001/git-helloworld.git
+|it remote add origin https://github.com/FrancisR001/git-helloworld.git
+|it remote add origin https://github.com/FrancisR001/git-helloworld.git
+git branch -M main
+git push -u origin main
+git remote add origin https://github.com/FrancisR001/git-helloworld.git
+|it status
+cd .. \devs\
+cd .. \devs
+|d ..\devs
+cd ..\devs
+cd C:\Users\Francis R\Desktop\ingenieria de software II\devs
+|it clone https://github.com/FrancisR001/git-helloworld
+ls
+git status
+cd C:\Users\Francis R\Desktop\ingenieria de software II\devs\practicascursoudemyingsoftII
+git commit
+cd C:\Users\Francis R\Desktop\ingenieria de software II\devs\git-helloworld
+git 
+|it clone https://github.com/FrancisR001/git-helloworld
+git clone https://github.com/FrancisR001/git-helloworld
